@@ -37,19 +37,19 @@
 - [x] Custom environment variables (for Build & Terminal).
 - [x] SDK Manager (Available via terminal).
 - [x] API information for classes and their members (since, removed, deprecated).
-- [ ] Language servers
+- [x] Language servers
     - [x] Java
     - [x] XML
-    - [ ] Kotlin
-- [ ] UI Designer
+    - [x] Kotlin
+- [x] UI Designer
     - [x] Layout inflater
     - [x] Resolve resource references
     - [x] Auto-complete resource values when user edits attributes using the attribute editor
     - [x] Drag & Drop
     - [x] Visual attribute editor
     - [x] Android Widgets
-- [ ] String Translator
-- [ ] Asset Studio (Drawable & Icon Maker)
+- [x] String Translator
+- [x] Asset Studio (Drawable & Icon Maker)
 - [x] Git
 
 ## Installation
